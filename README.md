@@ -1,13 +1,11 @@
-### Hi there 👋
+Master's in Information and Communication Technology Student.
 
-<!--
-**devanshi0110/devanshi0110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Introduction
+Hello there! Welcome to my GitHub repository. I am Devanshi Kshirsagar, currently pursuing my Master's in Information and Communication Technology Student.
+ at Veer Narmad South Gujarat University. This repository serves as a collection of my academic projects, personal coding experiments, and contributions to the open-source community. Feel free to explore and provide any feedback or suggestions you may have.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning MSc(ICT)
+- 👯 I’m looking to collaborate on
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
